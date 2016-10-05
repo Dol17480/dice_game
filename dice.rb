@@ -11,4 +11,7 @@ class Dice
     return @rolls.sample
   end
 
+
+
+ 
 end
